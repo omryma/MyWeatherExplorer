@@ -1,2 +1,2 @@
 # MoviesByWeather
-ReactJS &amp; ReduxToolkit small app, which provide recommended movies by your local weather
+ReactJS &amp; ReduxToolkit Query small app, which provide your local weather
